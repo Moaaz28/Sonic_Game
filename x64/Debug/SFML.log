@@ -1,0 +1,49 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(54,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(66,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(76,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(80,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(90,73): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(95,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(105,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(107,87): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(146,50): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(146,42): warning C4309: 'argument': truncation of constant value
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(174,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(188,24): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(242,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(254,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(277,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(281,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(285,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(389,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(391,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(393,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(395,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(397,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(399,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(401,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(403,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(405,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(407,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(409,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(411,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\moaaz28\source\repos\SFML\SFML\Source.cpp(413,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\moaaz28\source\repos\SFML\x64\Debug\game.exe
